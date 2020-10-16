@@ -1,5 +1,5 @@
 name: dialoguewise_flutter_web_sample
-description: A new Flutter project.
+description: Dialoguewise Flutter Web Sample.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
@@ -26,7 +26,6 @@ dependencies:
   dialogue_wise: ^0.1.6
   http: ^0.12.2
   easy_web_view: ^1.3.0
-  #flutter_widget_from_html_core: ^0.5.1+3
 
 dev_dependencies:
   flutter_test:
