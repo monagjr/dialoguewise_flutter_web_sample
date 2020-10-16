@@ -1,16 +1,14 @@
 # dialoguewise_flutter_web_sample
 
-A new Flutter project.
+Dialoguewise Flutter Web Sample.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run it, you will need to download/install Flutter SDK, then enable Web Support.
+More can be found here: https://flutter.dev/docs/get-started/web
 
-A few resources to get you started if this is your first Flutter project:
+After that you will need to run "`flutter pub get`" from within the project folder to install dependencies.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+To run it in dev. mode run "`flutter run`", and select `Chrome` from the provided list.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To build it (then can be hosted on any web-server), run "`flutter build web`"  the files to be hosted will be generated inside the "`build/web`" folder.
